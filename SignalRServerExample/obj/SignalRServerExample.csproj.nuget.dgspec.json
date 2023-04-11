@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\burak\\Desktop\\SignalRServerExample\\SignalRServerExample.csproj": {}
+    "C:\\Users\\Burak\\Desktop\\SignalR\\SignalRServerExample\\SignalRServerExample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\burak\\Desktop\\SignalRServerExample\\SignalRServerExample.csproj": {
+    "C:\\Users\\Burak\\Desktop\\SignalR\\SignalRServerExample\\SignalRServerExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\burak\\Desktop\\SignalRServerExample\\SignalRServerExample.csproj",
+        "projectUniqueName": "C:\\Users\\Burak\\Desktop\\SignalR\\SignalRServerExample\\SignalRServerExample.csproj",
         "projectName": "SignalRServerExample",
-        "projectPath": "C:\\Users\\burak\\Desktop\\SignalRServerExample\\SignalRServerExample.csproj",
-        "packagesPath": "C:\\Users\\burak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\burak\\Desktop\\SignalRServerExample\\obj\\",
+        "projectPath": "C:\\Users\\Burak\\Desktop\\SignalR\\SignalRServerExample\\SignalRServerExample.csproj",
+        "packagesPath": "C:\\Users\\Burak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Burak\\Desktop\\SignalR\\SignalRServerExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\burak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Burak\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
